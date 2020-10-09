@@ -1,1 +1,4 @@
+dic = {}
+dic.add(1,2)
+print(dic)
 
